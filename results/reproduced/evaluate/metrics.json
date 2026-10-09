@@ -1,0 +1,11 @@
+{
+  "train_samples": 54,
+  "test_samples": 7,
+  "split_random_state": 42,
+  "example_plot_numpy_seed": 42,
+  "example_plot_sample_index": 34,
+  "example_plot_file_name": "yoo2017_A_S30.csv",
+  "peak_MAE_N": 597.3941091482981,
+  "peak_MAPE_percent": 251.25815123890285,
+  "note": "Results from the existing algorithm, including the issues documented in docs/KNOWN_ISSUES.md."
+}

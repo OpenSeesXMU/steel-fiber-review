@@ -1,0 +1,11 @@
+Excluded parameter record absent from the supplied final database: yoo2017_S13_B.csv
+{
+  "rows": 61,
+  "columns": 107,
+  "parameter_rows": 62,
+  "excluded_parameter_records": [
+    "yoo2017_S13_B.csv"
+  ],
+  "all_identifiers_and_numeric_values_identical": true,
+  "maximum_absolute_numeric_difference": 0.0
+}
